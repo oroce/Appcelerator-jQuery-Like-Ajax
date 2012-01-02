@@ -4,25 +4,25 @@ Who want write something like this: <code>Ti.Network.createHTTPClient()</code>
 With this module, you can use any shortcut you have used with jQuery
 
 ### Usage
-<code>
-var _ = require( "underscore" ),
-    $ = require( "util" );
 
-$.ajax( /* params */ )
-</code>
+	var _ = require( "underscore" ),
+	    $ = require( "util" );
+
+	$.ajax( /* params */ )
+
 
 There are shorthands of course:
-<code>
-$.getJSON
-$.post
-$.get
-</code>
+
+	$.getJSON
+	$.post
+	$.get
+	
 
 ### Dependencies
 Underscore.js <http://documentcloud.github.com/underscore/>
 
 ### Testing
-There are some unit tests. Unfortunately for Appcelerator Titanium, there aren't any officially supported testing engine.
+There are some unit tests. Unfortunately for Appcelerator Titanium, there aren't any officially supported test framework.
 
 ### Documentation
 TODO
