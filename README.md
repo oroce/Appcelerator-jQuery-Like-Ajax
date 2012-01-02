@@ -1,7 +1,7 @@
 ### Appcelerator CommonJS module, for jQuery like Ajax
-Who want write something like this: <code>Ti.Network.createHTTPClient()</code>
+Who want write something like this: <code>Ti.Network.createHTTPClient()</code>?
 
-With this module, you can use any shortcut you have used with jQuery
+With this module, you can use any shortcut you have used with jQuery.
 
 ### Usage
 
@@ -28,6 +28,4 @@ There are some unit tests. Unfortunately for Appcelerator Titanium, there aren't
 TODO
 
 ### Note
-This is part one of my projects, to port Backbonejs into Appcelerator.
-
-  
+This is one of my projects, to port Backbonejs into Appcelerator.
